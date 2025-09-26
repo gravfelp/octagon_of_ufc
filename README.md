@@ -1,24 +1,22 @@
-# octagon_of_ufc
-
 # Octagon of UFC
-### A New Flutter Project
+## A New Flutter Project
 
 ---
 
-## Tentang Proyek Ini
+### Tentang Proyek Ini
 
-Ini adalah aplikasi **Flutter** yang dibuat untuk para penggemar **UFC**. Aplikasi ini menampilkan informasi tentang para petarung, jadwal pertandingan, dan hasil pertarungan yang sudah selesai.
+Ini adalah aplikasi **Flutter** yang dibuat untuk para penggemar **UFC**. Aplikasi ini menampilkan informasi tentang para petarung dan jadwal pertandingan.
 
 ---
 
-## Fitur Utama
+### Fitur Utama
 
 * **Profil Petarung**: Lihat statistik, riwayat pertandingan, dan biodata setiap petarung.
 * **Jadwal Pertandingan**: Dapatkan jadwal pertandingan yang akan datang, termasuk tanggal, lokasi, dan kartu pertandingan.
 
 ---
 
-## Memulai
+### Memulai
 
 Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
@@ -39,7 +37,9 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 Jika Anda memiliki pertanyaan, silakan buka _issue_ atau hubungi kami di [GitHub](https://github.com/gravfelp).
 
-### Getting Started
+---
+
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
